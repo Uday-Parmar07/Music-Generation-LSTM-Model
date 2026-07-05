@@ -2,5 +2,6 @@ music21
 numpy
 pandas
 keras
+tensorflow
 scikit-learn
 -e .
